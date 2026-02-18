@@ -1,0 +1,67 @@
+[
+  {
+    "CityCode": 2172797,
+    "CityName": "Cairns",
+    "Country": "AU"
+  },
+  {
+    "CityCode": 2643743,
+    "CityName": "London",
+    "Country": "GB"
+  },
+  {
+    "CityCode": 5128581,
+    "CityName": "New York",
+    "Country": "US"
+  },
+  {
+    "CityCode": 1850147,
+    "CityName": "Tokyo",
+    "Country": "JP"
+  },
+  {
+    "CityCode": 2147714,
+    "CityName": "Sydney",
+    "Country": "AU"
+  },
+  {
+    "CityCode": 1796236,
+    "CityName": "Shanghai",
+    "Country": "CN"
+  },
+  {
+    "CityCode": 360630,
+    "CityName": "Cairo",
+    "Country": "EG"
+  },
+  {
+    "CityCode": 3448439,
+    "CityName": "Sao Paulo",
+    "Country": "BR"
+  },
+  {
+    "CityCode": 524901,
+    "CityName": "Moscow",
+    "Country": "RU"
+  },
+  {
+    "CityCode": 1609350,
+    "CityName": "Bangkok",
+    "Country": "TH"
+  },
+  {
+    "CityCode": 2988507,
+    "CityName": "Paris",
+    "Country": "FR"
+  },
+  {
+    "CityCode": 3117735,
+    "CityName": "Madrid",
+    "Country": "ES"
+  },
+  {
+    "CityCode": 1248991,
+    "CityName": "Colombo",
+    "Country": "LK"
+  }
+]
