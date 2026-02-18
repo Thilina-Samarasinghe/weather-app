@@ -66,6 +66,8 @@ npm run dev
 |-----------|-------------|
 | ![Dashboard](screenshots/dashboard.png) | ![Mobile](screenshots/mobile.png) |
 
+
+![Dashboard light mode](screenshots/dashboardl.png)
 > *Note: Please add `dashboard.png` and `mobile.png` to the `screenshots` folder.*
 
 ---
